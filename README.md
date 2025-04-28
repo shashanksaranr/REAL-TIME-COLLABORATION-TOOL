@@ -95,14 +95,19 @@ Prerequisites: Make sure you have Node.js and npm installed.
 
 1. Real Time Collaboration Tool Window
 
-   <img width="1728" alt="Image" src="https://github.com/user-attachments/assets/bea89a43-d245-4862-93f2-a6c0e1a3d58f" />
+   <img width="1728" alt="Image" src="https://github.com/user-attachments/assets/4835cbd6-7503-4ff3-8aed-60355d1a6342" />
 
 2. User 1 Typing Message (On Left Side)
 
-   <img width="1728" alt="Image" src="https://github.com/user-attachments/assets/eec89d92-7b9d-4138-baea-3f585bc784ba" />
+   <img width="1728" alt="Image" src="https://github.com/user-attachments/assets/f7d64740-82b4-46c9-9ddb-428ffa161d5b" />
 
 3. User 2 Typing Message (On Right Side)
 
-   <img width="1728" alt="Image" src="https://github.com/user-attachments/assets/e8a10592-50d1-49d6-b2cd-7854702f4040" />
+   <img width="1728" alt="Image" src="https://github.com/user-attachments/assets/ad3e9aa0-1849-4891-acaa-9da6fb422efe" />
+
+
+   
+
+
 
   
