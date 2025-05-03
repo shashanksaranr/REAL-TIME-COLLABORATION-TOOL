@@ -75,18 +75,24 @@ Prerequisites: Make sure you have Node.js and npm installed.
     In the terminal, run:
    
       node server.js
+
+5. Create React App called Client:
+
+   In terminal:
+   
+           create-react-app client
    
     Open a new terminal window for the frontend and navigate to the client folder:
 
-      cd ../client
+       cd ../client
    
-5. Install the frontend dependencies:
+7. Install the frontend dependencies:
 
-        npm install
+       npm install
   
-6. Start the frontend development server:
+9. Start the frontend development server:
 
-          npm start
+       npm start
   
   The app will be available at http://localhost:5005.
 
