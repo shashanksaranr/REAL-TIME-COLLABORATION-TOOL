@@ -82,13 +82,13 @@ Prerequisites: Make sure you have Node.js and npm installed.
    
 5. Install the frontend dependencies:
 
-  npm install
+        npm install
   
 6. Start the frontend development server:
 
-  npm start
+          npm start
   
-  The app will be available at http://localhost:5001.
+  The app will be available at http://localhost:5005.
 
 
 # Output:
