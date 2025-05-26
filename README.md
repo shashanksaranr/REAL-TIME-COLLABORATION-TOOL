@@ -112,7 +112,11 @@ Prerequisites: Make sure you have Node.js and npm installed.
    <img width="1728" alt="Image" src="https://github.com/user-attachments/assets/ad3e9aa0-1849-4891-acaa-9da6fb422efe" />
 
 
-   
+🙋‍♂️ Author
+
+SHASHANKSARAN R
+
+GitHub: @shashanksaranr   
 
 
 
